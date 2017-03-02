@@ -22,7 +22,6 @@ public class ListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.list_activity);
         relativeLayout=(RelativeLayout)findViewById(R.id.vi);
-
     }
 
     public void ambClick(View v) {
